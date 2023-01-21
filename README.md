@@ -1,6 +1,9 @@
 # Bonk-a-Memer
-We all have shared and created memes at some pt. of time. But what if creating memes could help you pay bills? 
+We all have shared and created memes at some point of time.
+
+But what if creating memes could help you pay bills? 
 Sounds Interesting! Right? 
+
 Therefore I created a dApp where we can post memes and start earning $Bonk in return.
 This is my submission for Sandstorm Hackathon.
 

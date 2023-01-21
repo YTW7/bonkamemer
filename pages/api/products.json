@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "BugsBunny STFU da Monkey",
+    "price": "10",
+    "image_url": "https://pbs.twimg.com/media/Fm3dmkqaYAI6jfX?format=png&name=small",
+    "sellerKey": "7qoZLLYAY16Ly3s9wy6tsx8r5E8ojUWYDuf7F71KfBPS",
+    "twitterHandle": "@YahyaTheWarrior"
+  },
+  {
+    "id": 2,
+    "name": "Bonk Mania",
+    "price": "100",
+    "image_url": "https://pbs.twimg.com/media/Fm-zDouaUAEARTZ?format=png&name=small",
+    "description": "",
+    "sellerKey": "7qoZLLYAY16Ly3s9wy6tsx8r5E8ojUWYDuf7F71KfBPS",
+    "twitterHandle": "@web3_coolkid"
+  },
+  {
+    "id": 3,
+    "name": "Risk-Sensitive Neurons",
+    "price": "100",
+    "image_url": "https://pbs.twimg.com/media/Fm_QvVQaAAMRpts?format=jpg&name=small",
+    "description": "",
+    "sellerKey": "7qoZLLYAY16Ly3s9wy6tsx8r5E8ojUWYDuf7F71KfBPS",
+    "twitterHandle": "@YahyaTheWarrior"
+  }
+]
